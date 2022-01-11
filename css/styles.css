@@ -22,3 +22,8 @@ p.author {
   float: left;
   background-color: yellow;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
