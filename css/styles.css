@@ -11,3 +11,8 @@ p.author {
  width: 300px;
  height: 200px;
 }
+
+.test {
+  font-weight: bolder;
+  color: red;
+}
