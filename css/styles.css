@@ -17,6 +17,8 @@ p.author {
   color: red;
 }
 
-img {
+.sidebar {
+  width: 30%;
   float: left;
+  background-color: yellow;
 }
