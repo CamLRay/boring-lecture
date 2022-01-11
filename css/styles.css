@@ -16,3 +16,7 @@ p.author {
   font-weight: bolder;
   color: red;
 }
+
+img {
+  float: left;
+}
